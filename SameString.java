@@ -1,4 +1,4 @@
-package maxlength;
+
 
 import java.util.Scanner;
 
